@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="1t5KNM71sVOt5wPQWmOp" name="Page-1">
-        <mxGraphModel dx="1074" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="895" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -32,7 +32,7 @@
                 <mxCell id="14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontColor=#FFFFFF;" edge="1" parent="1" source="4" target="11">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="4" value="input" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+                <mxCell id="4" value="Input" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
                     <mxGeometry x="180" y="220" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontColor=#FFFFFF;" edge="1" parent="1" source="5" target="12">
